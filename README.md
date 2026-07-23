@@ -5,7 +5,7 @@
 </p>
 ## About Me
 
-DSE undergrad at IISER Bhopal. I build backend systems with Node.js and the MERN stack, and I'm currently a Google Summer of Code contributor with NeutralinoJS. 500+ problems solved total (300+ LeetCode, CodeChef, Codeforces).
+DSE undergrad at IISER Bhopal. I build backend systems with Node.js and the MERN stack, and I'm currently a Google Summer of Code contributor with NeutralinoJS. 500+ problems solved.
  
 ---
  
