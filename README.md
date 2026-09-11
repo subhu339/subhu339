@@ -1,4 +1,4 @@
-# Hello, I'm Subhash Kumar
+# Hello, I'm Subhash
  
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45FFCA&width=435&lines=MERN+Stack+Developer;Open+Source+Contributor+%40+GSoC;Competitive+Programmer" alt="Typing SVG" />
